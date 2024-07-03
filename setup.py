@@ -91,7 +91,6 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyarrow",
-            "google_trans_new",
             "deep-translator",
         ],
         entry_points={
