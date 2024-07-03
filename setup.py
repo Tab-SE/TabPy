@@ -91,6 +91,7 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyarrow",
+            "google_trans_new",
         ],
         entry_points={
             "console_scripts": [
