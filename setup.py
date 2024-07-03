@@ -92,6 +92,7 @@ def setup_package():
             "urllib3",
             "pyarrow",
             "google_trans_new",
+            "deep-translator",
         ],
         entry_points={
             "console_scripts": [
