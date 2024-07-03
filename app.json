@@ -7,7 +7,7 @@
     "env":{
         "USERNAME":{
             "description": "Add your username",
-            "value": "gzanolli",
+            "value": "admin",
             "required": true
         },
         "PASSWORD":{
